@@ -1,0 +1,21 @@
+
+# Pythonin väliaikaiset tiedostot
+__pycache__/
+*.py[cod]
+
+# Virtuaaliympäristöt
+.venv/
+venv/
+
+# PyInstallerin muodostamat tiedostot
+build/
+dist/
+
+# Generoidut tulostiedostot
+barcodes/
+*_laitteelle.csv
+*_pipetointilista.pdf
+
+# Paikalliset asetukset
+.env
+.vscode/
